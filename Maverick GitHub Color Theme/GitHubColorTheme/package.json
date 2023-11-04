@@ -1,0 +1,27 @@
+{
+  "name": "GitHubColorTheme",
+  "displayName": "Maverick GitHub Color Theme",
+  "description": "This is improved GitHub Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "keywords": [
+    "theme",
+    "GitHub Color Theme",
+    "dark theme",
+    "dark github color theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Maverick GitHub Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Maverick GitHub Color Theme-color-theme.json"
+      }
+    ]
+  }
+}

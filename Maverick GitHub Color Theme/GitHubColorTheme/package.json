@@ -6,6 +6,9 @@
   "engines": {
     "vscode": "^1.84.0"
   },
+  "repository": {
+    "url": "https://github.com/PatrykGrzyb/Maverick-GitHub-Color-Theme.git"
+  },
   "keywords": [
     "theme",
     "GitHub Color Theme",
@@ -25,3 +28,4 @@
     ]
   }
 }
+
